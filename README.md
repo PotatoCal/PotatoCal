@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Calvin a data-driven Product Leader based across 🇦🇺 Australia and 🇹🇭 Thailand.
+
+- 🔭 I’m currently working on leveling up my technical skills, to better work with engineers, after a sabbatical (more in Fun Fact below).
+- ✅ I've recently refreshed my skills in [SQL]() and [Python]().
+- 🌱 I’m currently levelling up my skills in [Web Development]() to better work with and understand engineers that I work with
+- 👯 I’m looking to collaborate on tech projects in the Health space.
+  - 📫 If you're interested, reach out to me on calvin33cchan@gmail.com!
+ 
+- ⚡ Fun fact: I just travelled the world for 15 months, see what it was like [here](https://www.instagram.com/kimncal/)!
 
 <!--
 **PotatoCal/PotatoCal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
